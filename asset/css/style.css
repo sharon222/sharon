@@ -1,0 +1,46 @@
+body{
+    font-family: 'Gabriela';
+}
+header{
+ background-image: url(http://quomodosoft.com/html/dawat/demo/img/slider/slide_3.jpg);
+    background-position: center;
+    background-size: cover;
+    min-height: 600px;
+   margin: 0px;
+}
+nav{
+    padding: 0px 35px;
+}
+h3{
+    padding-top: 90px;
+}
+.btn {
+    border-radius: 20px 2px 20px 2px;
+}
+.tabs{
+    margin-left: 180px;
+}
+.tabs .indicator{
+    background-color: black;
+}
+.tabs .tab a:focus, .tabs .tabs a:focus:active{
+    background-color: transparent;
+}
+#break{
+    margin-left: 180px; 
+}
+#lunch{
+    margin-left: 180px; 
+}
+#dinner{
+    margin-left: 180px; 
+}
+.me{
+    padding-top: 30px;
+}
+.m{
+    padding-top: 30px;
+}
+.e{
+    padding-top: 30px;
+}
